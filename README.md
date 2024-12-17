@@ -3,6 +3,8 @@
 
 Flatdango is a web-based application that allows users to view movie details and purchase tickets for the Flatiron Movie Theater. The app fetches movie data from a JSON server, dynamically displays the details, and updates the UI to reflect ticket availability.
 
+find the application here https://maurinemutinda72.github.io/json-challange/
+
 ---
 
 ### **Project Features**
@@ -112,13 +114,8 @@ db.json         # Data file for the JSON server
 - Built as part of the Flatiron School's code challenge.
 - Movie data and images sourced for demonstration purposes.
 
----
-
-### **Screenshots**
-
-- **Main Interface**: Displays movie details and ticket availability.
-- **Movie List**: Clickable list of movies with sold-out indicators.
-
+### **Author 
+- Miss Moh 
 ---
 
 ### **License**
